@@ -1,5 +1,5 @@
 
-# 📃 **NLP-Papers** ✔️❌💡📝📎📰
+# 📃 **NLP-Papers** ✔️❌💡📝📎📰🛠
 
 :TLDR: 
 #### A Neural Chatbot with Personality [📎](https://www.semanticscholar.org/paper/A-Neural-Chatbot-with-Personality-Nguyen-Morales/ffbb1d120c3c2881431933c6f928b851824913c4)
@@ -32,8 +32,7 @@
 
 #### Plug and Play Language Models: A Simple Approach to Controlled Text Generation [📝](notes/) [📎](https://arxiv.org/abs/1912.02164)
 
-#### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📎](https://www.aclweb.org/anthology/D13-1170/)
-[🛠](https://nlp.stanford.edu/sentiment/)
+#### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📎](https://www.aclweb.org/anthology/D13-1170/)[🛠](https://nlp.stanford.edu/sentiment/)
 
 #### The Second Conversational Intelligence Challenge (ConvAI2) [📎](https://arxiv.org/abs/1902.00098)
 
