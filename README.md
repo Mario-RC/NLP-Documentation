@@ -1,4 +1,5 @@
-# _**NLP-Papers**_
+
+# 📃 **NLP-Papers**
 
 
 #### *A Neural Chatbot with Personality*
@@ -33,6 +34,9 @@ https://arxiv.org/abs/1907.12412
 
 #### *Fine-Tuning Language Models from Human Preferences*
 https://arxiv.org/abs/1909.08593
+
+#### *GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding*
+https://arxiv.org/abs/1804.07461
 
 #### *Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks*
 https://arxiv.org/pdf/1911.02060.pdf
