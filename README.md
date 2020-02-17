@@ -4,9 +4,9 @@
 :TLDR: 
 #### 📎 A Neural Chatbot with Personality [[arXiv](https://www.semanticscholar.org/paper/A-Neural-Chatbot-with-Personality-Nguyen-Morales/ffbb1d120c3c2881431933c6f928b851824913c4)]
 
-#### A Neural Topical Expansion Framework for Unstructured Persona-oriented Dialogue Generation [[arXiv](https://arxiv.org/abs/2002.02153)]
+#### 💡 A Neural Topical Expansion Framework for Unstructured Persona-oriented Dialogue Generation [[arXiv](https://arxiv.org/abs/2002.02153)]
 
-#### A Persona-Based Neural Conversation Model [[arXiv](https://arxiv.org/abs/1603.06155)]
+#### 💡 A Persona-Based Neural Conversation Model [[arXiv](https://arxiv.org/abs/1603.06155)]
 
 #### A Survey of Available Corpora for Building Data-Driven Dialogue Systems [[arXiv](https://arxiv.org/abs/1512.05742)]
 
@@ -20,7 +20,7 @@
 
 #### ✔️📎📝 Enhancing sentient embodied conversational agents with machine learning [[ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0167865519303551)]
 
-#### ERNIE 2.0: A Continual Pre-training Framework for Language Understanding [[arXiv](https://arxiv.org/abs/1907.12412)]
+#### ERNIE 2.0: A Continual Pre-training Framework for Language Understanding [[arXiv](https://arxiv.org/abs/1907.12412)][[Article](https://www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/)]
 
 #### Fine-Tuning Language Models from Human Preferences [[arXiv](https://arxiv.org/abs/1909.08593)]
 
@@ -38,7 +38,7 @@
 
 #### ToxicBot A Conversational Agent to Fight Online Hate Speech
 
-#### 📎 Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [[arXiv](https://arxiv.org/abs/1811.00207)]
+#### 📎 💡 Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [[arXiv](https://arxiv.org/abs/1811.00207)]
 
 #### 📎 Training Millions of Personalized Dialogue Agents [[arXiv](https://arxiv.org/abs/1809.01984)]
 
