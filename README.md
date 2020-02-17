@@ -1,13 +1,13 @@
 # NLP-Papers
 
 
-## A Neural Chatbot with Personality
+### A Neural Chatbot with Personality
 https://www.semanticscholar.org/paper/A-Neural-Chatbot-with-Personality-Nguyen-Morales/ffbb1d120c3c2881431933c6f928b851824913c4
 
-## A Neural Topical Expansion Framework for Unstructured Persona-oriented Dialogue Generation
+#### A Neural Topical Expansion Framework for Unstructured Persona-oriented Dialogue Generation
 https://arxiv.org/abs/2002.02153
 
-## A Persona- Based Neural Conversation Model
+## ## A Persona- Based Neural Conversation Model
 https://arxiv.org/abs/1603.06155
 
 ## A Survey of Available Corpora for Building Data-Driven Dialogue Systems
