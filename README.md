@@ -26,7 +26,7 @@
 
 #### GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding [[arXiv](https://arxiv.org/abs/1804.07461)]
 
-#### Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks [[arXiv](https://arxiv.org/pdf/1911.02060.pdf)]
+#### Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks [[arXiv](https://arxiv.org/pdf/1911.02060.pdf)][[Article](https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/)]
 
 #### Personalizing Dialogue Agents: I have a dog, do you have pets too? [[arXiv](https://arxiv.org/abs/1801.07243)]
 
