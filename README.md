@@ -6,7 +6,7 @@
 
 #### 💡 A Neural Topical Expansion Framework for Unstructured Persona-oriented Dialogue Generation [[arXiv](https://arxiv.org/abs/2002.02153)]
 
-#### 💡 [A Persona-Based Neural Conversation Model](notes/a_persona-based_neural_conversation_model.md) [[arXiv](https://arxiv.org/abs/1603.06155)]
+#### 💡 A Persona-Based Neural Conversation Model[📝](notes/a_persona-based_neural_conversation_model.md) [[arXiv](https://arxiv.org/abs/1603.06155)]
 
 #### A Survey of Available Corpora for Building Data-Driven Dialogue Systems [[arXiv](https://arxiv.org/abs/1512.05742)]
 
