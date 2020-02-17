@@ -32,7 +32,8 @@
 
 #### Plug and Play Language Models: A Simple Approach to Controlled Text Generation [📝](notes/) [📎](https://arxiv.org/abs/1912.02164)
 
-#### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📎](https://www.aclweb.org/anthology/D13-1170/)][[The Stanford NLP Group](https://nlp.stanford.edu/sentiment/)
+#### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📎](https://www.aclweb.org/anthology/D13-1170/)
+[🛠](https://nlp.stanford.edu/sentiment/)
 
 #### The Second Conversational Intelligence Challenge (ConvAI2) [📎](https://arxiv.org/abs/1902.00098)
 
