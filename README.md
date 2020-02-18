@@ -46,4 +46,4 @@
 
 #### TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents [📎](https://arxiv.org/abs/1901.08149)
 
-#### What makes a good conversation? How controllable attributes affect human judgments [📎](https://arxiv.org/abs/1902.08654) [📰](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html)
+#### What makes a good conversation? How controllable attributes affect human judgments [📎](https://arxiv.org/abs/1902.08654) [📰](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html) [🛠](https://parl.ai/projects/controllable_dialogue/)
