@@ -1,5 +1,5 @@
 
-## ![A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/abs/1506.06714)
+## [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](https://arxiv.org/abs/1506.06714)
 
 #### Key Points
 
