@@ -21,4 +21,4 @@
   - Training persona vectors directly from conversational data and relevant side-information, and incorporating these directly into the decoder.
 
 ![Speaker Model](/images/speaker_model.png)
-Format: ![Alt Text](url)
+Source: ![Image](https://arxiv.org/pdf/1603.06155.pdf)
