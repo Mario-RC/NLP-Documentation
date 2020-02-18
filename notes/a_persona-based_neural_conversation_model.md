@@ -5,10 +5,9 @@
 #### Key Points
 
 - Dataset, model and trainning
-  - Seq2Seq
   - Speaker Model: Twitter FireHouse dataset
   - Speaker-Addressee Model: Television Series Transcripts (American television comedies Friends and The Big Bang Theory) available from [Internet Movie Script Database (IMSDb)](https://www.imsdb.com/).
-  
+  - Seq2Seq
   - Beam Search
   - Reranking the generated N-best list using a scoring function that linearly combines a length penalty and the log likelihood of the source given the target (Li et al. 2016) to avoid generated generic and commonplace responses such as I don’t know.
 
