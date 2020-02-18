@@ -17,4 +17,8 @@
 
 - For handling the issue of speaker consistency in neural response generation.
   - A speaker model encodes personas in distributed embeddings that capture individual characteristics such as background information and speaking style.
-  - A dyadic speakeraddressee model captures properties of interactions between two interlocutors.
+  - A dyadic speaker-addressee model captures properties of interactions between two interlocutors.
+  - Training persona vectors directly from conversational data and relevant side-information, and incorporating these directly into the decoder.
+
+![Speaker Model](/images/speaker_model.png)
+Format: ![Alt Text](url)
