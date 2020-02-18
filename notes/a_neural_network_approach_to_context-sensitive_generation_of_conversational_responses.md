@@ -3,4 +3,4 @@
 
 #### Key Points
 
-Rescoring outputs using a SEQ2SEQ model conditioned on conversation history. 
+Rescoring outputs using a Seq2Seq model conditioned on conversation history. 
