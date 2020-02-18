@@ -2,6 +2,8 @@
 # 📃 **NLP-Papers** ✔️❌💡📝📎📰🛠
 
 
+#### A Diversity-Promoting Objective Function for Neural Conversation Models [📎](https://arxiv.org/abs/1510.03055) [📝](notes/a_diversity-promoting_objective_function_for_neural_conversation_models.md)
+
 #### A Neural Chatbot with Personality [📎](https://www.semanticscholar.org/paper/A-Neural-Chatbot-with-Personality-Nguyen-Morales/ffbb1d120c3c2881431933c6f928b851824913c4)
 
 #### A Neural Network Approach to Context-Sensitive Generation of Conversational Responses [📝](notes/a_neural_network_approach_to_context-sensitive_generation_of_conversational_responses.md) [📎](https://arxiv.org/abs/1506.06714)
