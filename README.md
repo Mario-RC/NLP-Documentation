@@ -22,13 +22,13 @@
 
 #### Enhancing sentient embodied conversational agents with machine learning [📝](notes/) [📎](https://www.sciencedirect.com/science/article/pii/S0167865519303551)
 
-#### ERNIE 2.0: A Continual Pre-training Framework for Language Understanding [📎](https://arxiv.org/abs/1907.12412)[📰](https://www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/)
+#### ERNIE 2.0: A Continual Pre-training Framework for Language Understanding [📎](https://arxiv.org/abs/1907.12412) [📰](https://www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/)
 
 #### Fine-Tuning Language Models from Human Preferences [📎](https://arxiv.org/abs/1909.08593)
 
 #### GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding [📎](https://arxiv.org/abs/1804.07461)
 
-#### Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks [📎](https://arxiv.org/pdf/1911.02060.pdf)[📰](https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/)
+#### Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks [📎](https://arxiv.org/pdf/1911.02060.pdf) [📰](https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/)
 
 #### Personalizing Dialogue Agents: I have a dog, do you have pets too? [📝](notes/) [📎](https://arxiv.org/abs/1801.07243)
 
