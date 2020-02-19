@@ -28,8 +28,6 @@
 
 #### CTRL: A Conditional Transformer Language Model for Controllable Generation [📎](https://arxiv.org/abs/1909.05858)
 
-#### DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset [📝](/notes/dailyDialog_a_manually_labelled_multi-turn_dialogue_dataset.md) [📎](https://arxiv.org/abs/1710.03957)
-
 #### DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation [📎](https://arxiv.org/abs/1911.00536)
 
 #### 💡 Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach [📎](https://www.semanticscholar.org/paper/Domain-Adaptation-for-Large-Scale-Sentiment-A-Deep-Glorot-Bordes/6f4065f0cc99a0839b0248ffb4457e5f0277b30d)
@@ -67,6 +65,8 @@
 #### A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations [📝](/notes/a_sentiment-and-semantics-based_approach_for_emotion_detection_in_textual_conversations.md) [📎](https://arxiv.org/abs/1707.06996)
 
 #### Affective Neural Response Generation [📝](/notes/affective_neural_response_generation.md) [📎](https://arxiv.org/abs/1709.03968)
+
+#### DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset [📝](/notes/dailydialog_a_manually_labelled_multi-turn_dialogue_dataset.md) [📎](https://arxiv.org/abs/1710.03957)
 
 #### Polite Dialogue Generation Without Parallel Data [📝](/notes/polite_dialogue_generation_without_parallel_data.md) [📎](https://arxiv.org/abs/1805.03162)
 
