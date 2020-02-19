@@ -13,8 +13,6 @@
 
 #### A Persona-Based Neural Conversation Model [📝](notes/a_persona-based_neural_conversation_model.md) [📎](https://arxiv.org/abs/1603.06155)
 
-#### A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations [📎](https://arxiv.org/pdf/1707.06996.pdf)
-
 #### A Survey of Available Corpora for Building Data-Driven Dialogue Systems [📎](https://arxiv.org/abs/1512.05742)
 
 #### Attention Is All You Need [📎](https://arxiv.org/abs/1706.03762)
@@ -56,5 +54,7 @@
 #### What makes a good conversation? How controllable attributes affect human judgments [📎](https://arxiv.org/abs/1902.08654) [📰](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html) [🛠](https://parl.ai/projects/controllable_dialogue/)
 
 ## 📁 **NLP-Datasets**
+
+#### A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations [📎](https://arxiv.org/pdf/1707.06996.pdf)
 
 #### 💡 Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [📝](notes/towards_empathetic_open-domain_conversation_models_a_new_benchmark_and_dataset.md) [📎](https://arxiv.org/abs/1811.00207) [🛠](https://github.com/facebookresearch/EmpatheticDialogues)
