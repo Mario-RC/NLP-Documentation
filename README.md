@@ -1,5 +1,13 @@
 
-# 🗃 **NLP** 💡📝📎📰🛠
+# 🗃 **NLP**
+
+| Emoji | Description |
+:---: | :---: |
+| 💡 | Special interest |
+| 📝 | Summary/Notes |
+| 📎 | Paper |
+| 📰 | Article |
+| 🛠 | Code |
 
 ## 📃 **NLP-Papers**
 
