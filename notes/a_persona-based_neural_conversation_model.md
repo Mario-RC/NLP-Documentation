@@ -28,11 +28,11 @@
 
 ![Speaker Model](/images/speaker_model.png)
 
-_Figure 1_: Illustrative example of the Speaker Model introduced in this work. Speaker IDs close in embedding space tend to
+_Figure 1: Illustrative example of the Speaker Model introduced in this work. Speaker IDs close in embedding space tend to
 respond in the same manner. These speaker embeddings are learned jointly with word embeddings and all other parameters of
 the neural model via backpropagation. In this example, say Rob is a speaker clustered with people who often mention England
 in the training data, then the generation of the token ‘england’ at time t = 2 would be much more likely than that of ‘u.s.’. A
-non-persona model would prefer generating in the u.s. if ‘u.s.’ is more represented in the training data across all speakers.
+non-persona model would prefer generating in the u.s. if ‘u.s.’ is more represented in the training data across all speakers._
 
 - **The model learns speaker representations based on conversational content produced by different speakers, and speakers producing similar responses tend to have similar embeddings, occupying nearby positions in the vector space.**
 
