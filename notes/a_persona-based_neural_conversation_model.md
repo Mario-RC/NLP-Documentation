@@ -9,7 +9,7 @@
   - Speaker-Addressee Model: Television Series Transcripts (American television comedies Friends and The Big Bang Theory) available from [Internet Movie Script Database (IMSDb)](https://www.imsdb.com/).
   - Seq2Seq
   - Beam Search
-  - Reranking the generated N-best list using a scoring function that linearly combines a length penalty and the log likelihood of the source given the target [(Li et al. 2016)](notes/a_diversity-promoting_objective_function_for_neural_conversation_models.md) to avoid generated generic and commonplace responses such as I don’t know.
+  - Reranking the generated N-best list using a scoring function that linearly combines a length penalty and the log likelihood of the source given the target [(Li et al. 2016)](/notes/a_diversity-promoting_objective_function_for_neural_conversation_models.md) to avoid generated generic and commonplace responses such as I don’t know.
 
 - Define PERSONA:
   - Character that an artificial agent, as actor, plays or performs during conversational interactions.
@@ -42,7 +42,7 @@ non-persona model would prefer generating in the u.s. if ‘u.s.’ is more repr
 
 ## Results
 
-- We see that our system actually does better than [(Li et al. 2016)](notes/a_diversity-promoting_objective_function_for_neural_conversation_models.md), and we attribute the improvement to a larger training corpus, the use of dropout during training, and possibly to the “conversationalist” nature of our corpus.
+- We see that our system actually does better than [(Li et al. 2016)](/notes/a_diversity-promoting_objective_function_for_neural_conversation_models.md), and we attribute the improvement to a larger training corpus, the use of dropout during training, and possibly to the “conversationalist” nature of our corpus.
 
 - We suspect that this is primarily due to the relatively small size of the dataset where the interactive patterns might not be fully captured
 
