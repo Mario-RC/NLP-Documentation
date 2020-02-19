@@ -13,6 +13,8 @@
 
 #### A Persona-Based Neural Conversation Model [📝](notes/a_persona-based_neural_conversation_model.md) [📎](https://arxiv.org/abs/1603.06155)
 
+#### A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations [📎](https://arxiv.org/pdf/1707.06996.pdf)
+
 #### A Survey of Available Corpora for Building Data-Driven Dialogue Systems [📎](https://arxiv.org/abs/1512.05742)
 
 #### Attention Is All You Need [📎](https://arxiv.org/abs/1706.03762)
