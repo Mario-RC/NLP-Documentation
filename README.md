@@ -22,6 +22,8 @@
 
 #### DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation [📎](https://arxiv.org/abs/1911.00536)
 
+#### 💡 Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach [📎](https://www.semanticscholar.org/paper/Domain-Adaptation-for-Large-Scale-Sentiment-A-Deep-Glorot-Bordes/6f4065f0cc99a0839b0248ffb4457e5f0277b30d)
+
 #### Enhancing sentient embodied conversational agents with machine learning [📝](notes/) [📎](https://www.sciencedirect.com/science/article/pii/S0167865519303551)
 
 #### ERNIE 2.0: A Continual Pre-training Framework for Language Understanding [📎](https://arxiv.org/abs/1907.12412) [📰](https://www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/)
@@ -37,6 +39,8 @@
 #### Plug and Play Language Models: A Simple Approach to Controlled Text Generation [📝](notes/) [📎](https://arxiv.org/abs/1912.02164)
 
 #### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📎](https://www.aclweb.org/anthology/D13-1170/) [🛠](https://nlp.stanford.edu/sentiment/)
+
+#### 💡 The Role of Syntax in Vector Space Models of Compositional Semantics [📎](https://www.aclweb.org/anthology/P13-1088/)
 
 #### The Second Conversational Intelligence Challenge (ConvAI2) [📎](https://arxiv.org/abs/1902.00098)
 
