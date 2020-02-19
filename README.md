@@ -10,7 +10,7 @@
 
 #### 💡 A Neural Topical Expansion Framework for Unstructured Persona-oriented Dialogue Generation [📎](https://arxiv.org/abs/2002.02153)
 
-#### 💡 A Persona-Based Neural Conversation Model [📝](notes/a_persona-based_neural_conversation_model.md) [📎](https://arxiv.org/abs/1603.06155)
+#### A Persona-Based Neural Conversation Model [📝](notes/a_persona-based_neural_conversation_model.md) [📎](https://arxiv.org/abs/1603.06155)
 
 #### A Survey of Available Corpora for Building Data-Driven Dialogue Systems [📎](https://arxiv.org/abs/1512.05742)
 
@@ -42,7 +42,7 @@
 
 #### ToxicBot A Conversational Agent to Fight Online Hate Speech
 
-#### 💡 Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [📎](https://arxiv.org/abs/1811.00207)
+#### 💡 Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [📝](notes/towards_empathetic_open-domain_conversation_models_a_new_benchmark_and_dataset.md) [📎](https://arxiv.org/abs/1811.00207)
 
 #### Training Millions of Personalized Dialogue Agents [📎](https://arxiv.org/abs/1809.01984)
 
