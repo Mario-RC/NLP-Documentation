@@ -28,7 +28,14 @@
 
 ![Speaker Model](/images/speaker_model.png)
 
-- The model learns speaker representations based on conversational content produced by different speakers, and speakers producing similar responses tend to have similar embeddings, occupying nearby positions in the vector space.
+_Figure 1_: Illustrative example of the Speaker Model introduced in this work. Speaker IDs close in embedding space tend to
+respond in the same manner. These speaker embeddings are learned jointly with word embeddings and all other parameters of
+the neural model via backpropagation. In this example, say Rob is a speaker clustered with people who often mention England
+in the training data, then the generation of the token ‘england’ at time t = 2 would be much more likely than that of ‘u.s.’. A
+non-persona model would prefer generating in the u.s. if ‘u.s.’ is more represented in the training data across all speakers.
+
+- **The model learns speaker representations based on conversational content produced by different speakers, and speakers producing similar responses tend to have similar embeddings, occupying nearby positions in the vector space.**
+
 - The training data of speakers nearby in vector space help increase the generalization capability of the speaker model. Even if speaker j was never asked the same question, this answer can help influence a good response from speaker j, and this without explicitly labeled geo-location information.
 
 - A domain adaption strategy where we first trained a standard Seq2Seq models using a much larger OpenSubtitles (OSDb) dataset. We run 10 iterations over the training set. We initialize word embeddings and LSTM parameters in the Speaker Model and the SpeakerAddressee model using parameters learned from OpenSubtitles datasets. User embeddings are randomly initialized from [−0.1, 0.1]. We then ran 5 additional epochs until the perplexity on the development set stabilized.
@@ -45,6 +52,6 @@
 
 ## Conclusions
 
-- We have demonstrated that by encoding personas in distributed representations, we are able to capture personal characteristics such as speaking style and background information. In the SpeakerAddressee model, moreover, the evidence suggests that there is benefit in capturing dyadic interactions.
+- We have demonstrated that by encoding personas in distributed representations, we are able to capture personal characteristics such as speaking style and background information. In the Speaker-Addressee model, moreover, the evidence suggests that there is benefit in capturing dyadic interactions.
 
 - Our ultimate goal is to be able to take the profile of an arbitrary individual whose identity is not known in advance, and generate conversations that accurately emulate that individual’s persona in terms of linguistic response behavior and other salient characteristics.
