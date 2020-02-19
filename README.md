@@ -63,6 +63,6 @@
 
 ## 📁 **NLP-Datasets**
 
-#### A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations [📎](https://arxiv.org/pdf/1707.06996.pdf)
+#### A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations [📝](notes/a_sentiment-and-semantics-based_approach_for_emotion_detection_in_textual_conversations) [📎](https://arxiv.org/pdf/1707.06996.pdf)
 
 #### 💡 Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [📝](notes/towards_empathetic_open-domain_conversation_models_a_new_benchmark_and_dataset.md) [📎](https://arxiv.org/abs/1811.00207) [🛠](https://github.com/facebookresearch/EmpatheticDialogues)
