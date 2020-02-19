@@ -22,7 +22,7 @@
 
 Through a general term to encourage higher levels of affect [(Asghar et al., 2018)](/notes/affective_neural_response_generation.md), with evaluations focused on matching a predetermined desired emotion rather than empathetic responding. [Niu and Bansal (2018)](/notes/polite_dialogue_generation_without_parallel_data.md) generate responses conditioned on a specified politeness setting (polite, rude or neutral).
 
-Another interesting resource is the DAILYDIALOG (DD) dataset [(Li et al., 2017)](/notes/dailyDialog_a_manually_labelled_multi-turn_dialogue_dataset.md), which comprises about 13k dialogues obtained by crawling educational websites intended for learners of English and also has emotion label annotations. Many of the dialogues are focused on topics for ESL learners (ordering from a restaurant, asking for directions, introductions, etc), but only ≈ 5% of the utterances have a label other than “none” or “happy”.
+Another interesting resource is the DAILYDIALOG (DD) dataset [(Li et al., 2017)](/notes/dailydialog_a_manually_labelled_multi-turn_dialogue_dataset.md), which comprises about 13k dialogues obtained by crawling educational websites intended for learners of English and also has emotion label annotations. Many of the dialogues are focused on topics for ESL learners (ordering from a restaurant, asking for directions, introductions, etc), but only ≈ 5% of the utterances have a label other than “none” or “happy”.
 
 We used the Hugging Face PyTorch implementation of BERT at https://github.com/huggingface/pytorchtransformers. We experimented with directly fine-tuning BERT on ED without first training on Reddit conversations, but this did not perform as well.
 
