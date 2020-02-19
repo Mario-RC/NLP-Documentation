@@ -3,4 +3,4 @@
 
 ###### TLDR;
 
-The SEMEVAL2019 EmoContext challenge also uses conversation data for detection of three basic emotions (‘happy’, ‘sad’, and ‘angry’) over two turns of context from Twitter exchanges.
+[The SemEval-2019 Task 3: EmoContext Contextual Emotion Detection in Text](https://www.aclweb.org/anthology/S19-2005/) challenge also uses conversation data for detection of three basic emotions (‘happy’, ‘sad’, and ‘angry’) over two turns of context from Twitter exchanges.
