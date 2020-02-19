@@ -1,15 +1,12 @@
 
 # 🗃 **NLP**
 
-| Emoji | Description |
-:---: | :---: |
-| ✔️ | Perusal |
-| 🔰 | Diagonal |
-| 💡 | Next |
+| Emoji | Description | Emoji | Description |
+| :---: | :---: |:---: | :---: |
+| ✔️ | Perusal | 📎 | Paper |
+| 🔰 | Diagonal | 📰 | Article |
+| 💡 | Next | 🛠 | Code |
 | 📝 | Summary/Notes |
-| 📎 | Paper |
-| 📰 | Article |
-| 🛠 | Code |
 
 ## 📃 **NLP-Papers**
 
