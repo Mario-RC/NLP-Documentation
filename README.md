@@ -25,27 +25,15 @@
 
 #### Attention Is All You Need [📎](https://arxiv.org/abs/1706.03762)
 
-#### BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [📎](https://arxiv.org/abs/1810.04805)
-
-#### CTRL: A Conditional Transformer Language Model for Controllable Generation [📎](https://arxiv.org/abs/1909.05858)
-
-#### DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation [📎](https://arxiv.org/abs/1911.00536)
-
 #### 💡 Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach [📎](https://www.semanticscholar.org/paper/Domain-Adaptation-for-Large-Scale-Sentiment-A-Deep-Glorot-Bordes/6f4065f0cc99a0839b0248ffb4457e5f0277b30d)
 
 #### ✔️ Enhancing sentient embodied conversational agents with machine learning [📝](/notes/) [📎](https://www.sciencedirect.com/science/article/pii/S0167865519303551)
 
-#### ERNIE 2.0: A Continual Pre-training Framework for Language Understanding [📎](https://arxiv.org/abs/1907.12412) [📰](https://www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/)
-
 #### Fine-Tuning Language Models from Human Preferences [📎](https://arxiv.org/abs/1909.08593)
-
-#### GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding [📎](https://arxiv.org/abs/1804.07461)
 
 #### Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks [📎](https://arxiv.org/pdf/1911.02060.pdf) [📰](https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/)
 
 #### ✔️ Personalizing Dialogue Agents: I have a dog, do you have pets too? [📝](/notes/) [📎](https://arxiv.org/abs/1801.07243)
-
-#### ✔️ Plug and Play Language Models: A Simple Approach to Controlled Text Generation [📝](/notes/) [📎](https://arxiv.org/abs/1912.02164)
 
 #### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📎](https://www.aclweb.org/anthology/D13-1170/) [🛠](https://nlp.stanford.edu/sentiment/)
 
@@ -57,13 +45,31 @@
 
 #### Training Millions of Personalized Dialogue Agents [📎](https://arxiv.org/abs/1809.01984)
 
-#### TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents [📎](https://arxiv.org/abs/1901.08149)
-
 #### What makes a good conversation? How controllable attributes affect human judgments [📎](https://arxiv.org/abs/1902.08654) [📰](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html) [🛠](https://parl.ai/projects/controllable_dialogue/)
+
+## 🏗 **NLP-Metric**
+
+#### GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding [📎](https://arxiv.org/abs/1804.07461)
+
+## 🏗 **NLP-Model**
+
+#### BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [📎](https://arxiv.org/abs/1810.04805)
+
+#### CTRL: A Conditional Transformer Language Model for Controllable Generation [📎](https://arxiv.org/abs/1909.05858)
+
+#### DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation [📎](https://arxiv.org/abs/1911.00536)
+
+#### ERNIE 2.0: A Continual Pre-training Framework for Language Understanding [📎](https://arxiv.org/abs/1907.12412) [📰](https://www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/)
+
+#### ✔️ Plug and Play Language Models: A Simple Approach to Controlled Text Generation [📝](/notes/) [📎](https://arxiv.org/abs/1912.02164)
+
+#### TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents [📎](https://arxiv.org/abs/1901.08149)
 
 ## 📈 **NLP-Representation**
 
 #### 💡 How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings [📎](https://arxiv.org/abs/1909.00512) [📰](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
+
+## 🏗 **NLP-Sentiment**
 
 ## 📁 **NLP-Datasets**
 
