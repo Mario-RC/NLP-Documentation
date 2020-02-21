@@ -1,4 +1,5 @@
 
+# 🚧🚧🚧🚧
 # 🗃 **NLP**
 
 | Emoji | Description | Emoji | Description |
@@ -39,6 +40,8 @@
 #### Fine-Tuning Language Models from Human Preferences [📎](https://arxiv.org/abs/1909.08593)
 
 #### GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding [📎](https://arxiv.org/abs/1804.07461)
+
+#### How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings [📎](https://arxiv.org/abs/1909.00512) [📰](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
 
 #### Infusing Knowledge into the Textual Entailment Task Using Graph Convolutional Networks [📎](https://arxiv.org/pdf/1911.02060.pdf) [📰](https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/)
 
