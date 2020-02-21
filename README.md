@@ -24,8 +24,6 @@
 
 #### A Survey of Available Corpora for Building Data-Driven Dialogue Systems [📎](https://arxiv.org/abs/1512.05742)
 
-#### Attention Is All You Need [📎](https://arxiv.org/abs/1706.03762)
-
 #### 💡 Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach [📎](https://www.semanticscholar.org/paper/Domain-Adaptation-for-Large-Scale-Sentiment-A-Deep-Glorot-Bordes/6f4065f0cc99a0839b0248ffb4457e5f0277b30d)
 
 #### ✔️ Enhancing sentient embodied conversational agents with machine learning [📝](/notes/) [📎](https://www.sciencedirect.com/science/article/pii/S0167865519303551)
@@ -54,13 +52,21 @@
 
 ## 🏗 **NLP-Model**
 
+#### TRANSFORMERS: Attention Is All You Need [📎](https://arxiv.org/abs/1706.03762)
+
 #### BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [📎](https://arxiv.org/abs/1810.04805)
 
 #### CTRL: A Conditional Transformer Language Model for Controllable Generation [📎](https://arxiv.org/abs/1909.05858)
 
 #### DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation [📎](https://arxiv.org/abs/1911.00536)
 
+#### ELMO: Deep contextualized word representations [📎](https://arxiv.org/abs/1802.05365)
+
 #### ERNIE 2.0: A Continual Pre-training Framework for Language Understanding [📎](https://arxiv.org/abs/1907.12412) [📰](https://www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/)
+
+#### GPT: Improving language understanding by generative pre-training [📎](https://openai.com/blog/language-unsupervised/) [🛠](https://github.com/openai/finetune-transformer-lm)
+
+#### GPT-2: Language Models are Unsupervised Multitask Learners [📎](https://openai.com/blog/better-language-models/) [🛠](https://github.com/openai/gpt-2)
 
 #### ✔️ Plug and Play Language Models: A Simple Approach to Controlled Text Generation [📝](/notes/) [📎](https://arxiv.org/abs/1912.02164)
 
