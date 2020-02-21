@@ -61,7 +61,7 @@
 
 #### What makes a good conversation? How controllable attributes affect human judgments [📎](https://arxiv.org/abs/1902.08654) [📰](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html) [🛠](https://parl.ai/projects/controllable_dialogue/)
 
-## 📃 **NLP-Representation**
+## 📈 **NLP-Representation**
 
 #### 💡 How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings [📎](https://arxiv.org/abs/1909.00512) [📰](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
 
