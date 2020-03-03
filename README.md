@@ -88,6 +88,8 @@
 
 #### Polite Dialogue Generation Without Parallel Data [📝](/notes/polite_dialogue_generation_without_parallel_data.md) [📎](https://arxiv.org/abs/1805.03162)
 
+#### 💡 Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📝](/notes/recursive_deep_models_for_semantic_compositionality_over_a_sentiment_treebank.md) [📎](https://www.aclweb.org/anthology/D13-1170/)
+
 #### 💡 Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversations [📝](/notes/topical-chat_towards_knowledge-grounded_open-domain_conversations.md) [📎](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/3079.html)
 
 #### ✔️ Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [📝](/notes/towards_empathetic_open-domain_conversation_models_a_new_benchmark_and_dataset.md) [📎](https://arxiv.org/abs/1811.00207) [🛠](https://github.com/facebookresearch/EmpatheticDialogues)
