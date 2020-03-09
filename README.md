@@ -10,6 +10,26 @@
 | 💡 | Next | 🛠 | Code |
 | 📝 | Summary/Notes |
 
+## 📁 **NLP-Datasets**
+
+#### A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations [📝](/notes/a_sentiment-and-semantics-based_approach_for_emotion_detection_in_textual_conversations.md) [📎](https://arxiv.org/abs/1707.06996)
+
+#### Affective Neural Response Generation [📝](/notes/affective_neural_response_generation.md) [📎](https://arxiv.org/abs/1709.03968)
+
+#### 💡 DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset [📝](/notes/dailydialog_a_manually_labelled_multi-turn_dialogue_dataset.md) [📎](https://arxiv.org/abs/1710.03957)
+
+#### 💡 Polite Dialogue Generation Without Parallel Data [📝](/notes/polite_dialogue_generation_without_parallel_data.md) [📎](https://arxiv.org/abs/1805.03162)
+
+#### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📝](/notes/recursive_deep_models_for_semantic_compositionality_over_a_sentiment_treebank.md) [📎](https://www.aclweb.org/anthology/D13-1170/) [🛠](http://nlp.stanford.edu/sentiment)
+
+#### Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversations [📝](/notes/topical-chat_towards_knowledge-grounded_open-domain_conversations.md) [📎](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/3079.html) [🛠](https://github.com/alexa/alexa-prize-topical-chat-dataset)
+
+#### ✔️ Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [📝](/notes/towards_empathetic_open-domain_conversation_models_a_new_benchmark_and_dataset.md) [📎](https://arxiv.org/abs/1811.00207) [🛠](https://github.com/facebookresearch/EmpatheticDialogues)
+
+## 🏗 **NLP-Evolutive**
+
+A comparative study of genetic algorithm in sentiment analysis [📎](https://ieeexplore.ieee.org/abstract/document/8399051)
+
 ## 📃 **NLP-General**
 
 #### A Diversity-Promoting Objective Function for Neural Conversation Models [📎](https://arxiv.org/abs/1510.03055) [📝](/notes/a_diversity-promoting_objective_function_for_neural_conversation_models.md)
@@ -34,9 +54,7 @@
 
 #### ✔️ Personalizing Dialogue Agents: I have a dog, do you have pets too? [📝](/notes/) [📎](https://arxiv.org/abs/1801.07243)
 
-#### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📎](https://www.aclweb.org/anthology/D13-1170/) [🛠](https://nlp.stanford.edu/sentiment/)
-
-#### 💡 The Role of Syntax in Vector Space Models of Compositional Semantics [📎](https://www.aclweb.org/anthology/P13-1088/)
+#### The Role of Syntax in Vector Space Models of Compositional Semantics [📎](https://www.aclweb.org/anthology/P13-1088/)
 
 #### The Second Conversational Intelligence Challenge (ConvAI2) [📎](https://arxiv.org/abs/1902.00098)
 
@@ -81,19 +99,3 @@
 #### ✔️ How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings [📝](/notes/how_contextual_are_contextualized_word_representations_comparing_the_geometry_of_bert_elmo_and_gpt-2_embeddings.md) [📎](https://arxiv.org/abs/1909.00512) [📰](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
 
 ## 💬 **NLP-Sentiment**
-
-## 📁 **NLP-Datasets**
-
-#### A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations [📝](/notes/a_sentiment-and-semantics-based_approach_for_emotion_detection_in_textual_conversations.md) [📎](https://arxiv.org/abs/1707.06996)
-
-#### Affective Neural Response Generation [📝](/notes/affective_neural_response_generation.md) [📎](https://arxiv.org/abs/1709.03968)
-
-#### DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset [📝](/notes/dailydialog_a_manually_labelled_multi-turn_dialogue_dataset.md) [📎](https://arxiv.org/abs/1710.03957)
-
-#### Polite Dialogue Generation Without Parallel Data [📝](/notes/polite_dialogue_generation_without_parallel_data.md) [📎](https://arxiv.org/abs/1805.03162)
-
-#### 💡 Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📝](/notes/recursive_deep_models_for_semantic_compositionality_over_a_sentiment_treebank.md) [📎](https://www.aclweb.org/anthology/D13-1170/) [🛠](http://nlp.stanford.edu/sentiment)
-
-#### 💡 Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversations [📝](/notes/topical-chat_towards_knowledge-grounded_open-domain_conversations.md) [📎](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/3079.html) [🛠](https://github.com/alexa/alexa-prize-topical-chat-dataset)
-
-#### ✔️ Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [📝](/notes/towards_empathetic_open-domain_conversation_models_a_new_benchmark_and_dataset.md) [📎](https://arxiv.org/abs/1811.00207) [🛠](https://github.com/facebookresearch/EmpatheticDialogues)
