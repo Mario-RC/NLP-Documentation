@@ -18,7 +18,7 @@
 
 #### A Neural Network Approach to Context-Sensitive Generation of Conversational Responses [📝](/notes/a_neural_network_approach_to_context-sensitive_generation_of_conversational_responses.md) [📎](https://arxiv.org/abs/1506.06714)
 
-#### 💡 A Neural Topical Expansion Framework for Unstructured Persona-Oriented Dialogue Generation [📎](https://arxiv.org/abs/2002.02153)
+#### 💡 A Neural Topical Expansion Framework for Unstructured Persona-oriented Dialogue Generation [📎](https://arxiv.org/abs/2002.02153)
 
 #### ✔️ A Persona-Based Neural Conversation Model [📝](/notes/a_persona-based_neural_conversation_model.md) [📎](https://arxiv.org/abs/1603.06155)
 
