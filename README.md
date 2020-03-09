@@ -46,6 +46,10 @@
 
 #### What makes a good conversation? How controllable attributes affect human judgments [📎](https://arxiv.org/abs/1902.08654) [📰](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html) [🛠](https://parl.ai/projects/controllable_dialogue/)
 
+## 🏗 **NLP-Graphs**
+
+#### A Gentle Introduction to Deep Learning for Graphs [📎](https://arxiv.org/abs/1912.12693)
+
 ## 🏗 **NLP-Metric**
 
 #### GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding [📎](https://arxiv.org/abs/1804.07461)
