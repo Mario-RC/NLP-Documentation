@@ -74,8 +74,6 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 
 ## 🏗 **NLP-Model**
 
-#### TRANSFORMERS: Attention Is All You Need [📎](https://arxiv.org/abs/1706.03762)
-
 #### BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [📎](https://arxiv.org/abs/1810.04805)
 
 #### CTRL: A Conditional Transformer Language Model for Controllable Generation [📎](https://arxiv.org/abs/1909.05858)
@@ -83,6 +81,8 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 #### DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation [📎](https://arxiv.org/abs/1911.00536)
 
 #### ELMO: Deep contextualized word representations [📎](https://arxiv.org/abs/1802.05365)
+
+#### 💡 EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems [📎](https://arxiv.org/abs/2003.02958)
 
 #### ERNIE 2.0: A Continual Pre-training Framework for Language Understanding [📎](https://arxiv.org/abs/1907.12412) [📰](https://www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/)
 
@@ -93,6 +93,8 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 #### ✔️ Plug and Play Language Models: A Simple Approach to Controlled Text Generation [📝](/notes/) [📎](https://arxiv.org/abs/1912.02164)
 
 #### TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents [📎](https://arxiv.org/abs/1901.08149)
+
+#### TRANSFORMERS: Attention Is All You Need [📎](https://arxiv.org/abs/1706.03762)
 
 ## 📈 **NLP-Representation**
 
