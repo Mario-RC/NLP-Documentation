@@ -54,6 +54,8 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 
 #### ✔️ Personalizing Dialogue Agents: I have a dog, do you have pets too? [📝](/notes/) [📎](https://arxiv.org/abs/1801.07243)
 
+#### 💡 Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference [📎](https://arxiv.org/abs/1902.01007) [📰](https://github.com/huggingface/awesome-papers)
+
 #### The Role of Syntax in Vector Space Models of Compositional Semantics [📎](https://www.aclweb.org/anthology/P13-1088/)
 
 #### The Second Conversational Intelligence Challenge (ConvAI2) [📎](https://arxiv.org/abs/1902.00098)
