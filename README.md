@@ -16,11 +16,17 @@
 
 #### Affective Neural Response Generation [📝](/notes/affective_neural_response_generation.md) [📎](https://arxiv.org/abs/1709.03968)
 
-#### 💡 DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset [📝](/notes/dailydialog_a_manually_labelled_multi-turn_dialogue_dataset.md) [📎](https://arxiv.org/abs/1710.03957)
+#### Chameleons in imagined conversations: A new approach to understanding coordination of linguistic style in dialogs [📎](https://arxiv.org/abs/1106.3077) [🛠](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+
+#### 💡 DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset [📝](/notes/dailydialog_a_manually_labelled_multi-turn_dialogue_dataset.md) [📎](https://arxiv.org/abs/1710.03957) [📝](http://yanran.li/dailydialog.html) [🛠](https://github.com/Sanghoon94/DailyDialogue-Parser)
 
 #### 💡 Emotion Recognition in Conversation: Research Challenges, Datasets, and Recent Advances [📎](https://arxiv.org/abs/1905.02947)
 
-#### 💡 Polite Dialogue Generation Without Parallel Data [📝](/notes/polite_dialogue_generation_without_parallel_data.md) [📎](https://arxiv.org/abs/1805.03162)
+#### Movie-DiC: a Movie Dialogue Corpus for Research and Development [📎](https://www.aclweb.org/anthology/P12-2040/) [🛠](https://www.imsdb.com/)
+
+#### Finding Alternative Translations in a Large Corpus of Movie Subtitle [📎](https://www.aclweb.org/anthology/L16-1559/) v(http://opus.nlpl.eu/OpenSubtitles-v2018.php)
+
+#### 💡 Polite Dialogue Generation Without Parallel Data [📝](/notes/polite_dialogue_generation_without_parallel_data.md) [📎](https://arxiv.org/abs/1805.03162) [🛠](https://github.com/WolfNiu/polite-dialogue-generation)
 
 #### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📝](/notes/recursive_deep_models_for_semantic_compositionality_over_a_sentiment_treebank.md) [📎](https://www.aclweb.org/anthology/D13-1170/) [🛠](http://nlp.stanford.edu/sentiment)
 
