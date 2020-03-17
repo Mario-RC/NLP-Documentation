@@ -34,6 +34,10 @@
 
 #### ✔️ Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [📝](/notes/towards_empathetic_open-domain_conversation_models_a_new_benchmark_and_dataset.md) [📎](https://arxiv.org/abs/1811.00207) [🛠](https://github.com/facebookresearch/EmpatheticDialogues)
 
+## 💬 **NLP-Emotional**
+
+Confiding in and Listening to Virtual Agents: The Effect of Personality [📎](https://arxiv.org/abs/1811.00746)
+
 ## 🏗 **NLP-Evolutive**
 
 A comparative study of genetic algorithm in sentiment analysis [📎](https://ieeexplore.ieee.org/abstract/document/8399051)
@@ -109,5 +113,3 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 ## 📈 **NLP-Representation**
 
 #### ✔️ How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings [📝](/notes/how_contextual_are_contextualized_word_representations_comparing_the_geometry_of_bert_elmo_and_gpt-2_embeddings.md) [📎](https://arxiv.org/abs/1909.00512) [📰](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
-
-## 💬 **NLP-Sentiment**
