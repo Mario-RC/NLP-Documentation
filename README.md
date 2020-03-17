@@ -18,6 +18,8 @@
 
 #### 💡 DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset [📝](/notes/dailydialog_a_manually_labelled_multi-turn_dialogue_dataset.md) [📎](https://arxiv.org/abs/1710.03957)
 
+#### Emotion Recognition in Conversation: Research Challenges, Datasets, and Recent Advances [📎](https://arxiv.org/abs/1905.02947)
+
 #### 💡 Polite Dialogue Generation Without Parallel Data [📝](/notes/polite_dialogue_generation_without_parallel_data.md) [📎](https://arxiv.org/abs/1805.03162)
 
 #### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📝](/notes/recursive_deep_models_for_semantic_compositionality_over_a_sentiment_treebank.md) [📎](https://www.aclweb.org/anthology/D13-1170/) [🛠](http://nlp.stanford.edu/sentiment)
