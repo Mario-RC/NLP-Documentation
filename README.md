@@ -113,3 +113,7 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 ## 📈 **NLP-Representation**
 
 #### ✔️ How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings [📝](/notes/how_contextual_are_contextualized_word_representations_comparing_the_geometry_of_bert_elmo_and_gpt-2_embeddings.md) [📎](https://arxiv.org/abs/1909.00512) [📰](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
+
+## 📈 **NLP-Blogs**
+
+#### 💡 How to generate text: using different decoding methods for language generation with Transformers [📰](https://huggingface.co/blog/how-to-generate)
