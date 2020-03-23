@@ -10,6 +10,10 @@
 | 💡 | Next | 🛠 | Code |
 | 📝 | Summary/Notes |
 
+## 📈 **NLP-Blogs**
+
+#### 💡 How to generate text: using different decoding methods for language generation with Transformers [📰](https://huggingface.co/blog/how-to-generate)
+
 ## 📁 **NLP-Datasets**
 
 #### A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations [📝](/notes/a_sentiment-and-semantics-based_approach_for_emotion_detection_in_textual_conversations.md) [📎](https://arxiv.org/abs/1707.06996)
@@ -113,7 +117,3 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 ## 📈 **NLP-Representation**
 
 #### ✔️ How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings [📝](/notes/how_contextual_are_contextualized_word_representations_comparing_the_geometry_of_bert_elmo_and_gpt-2_embeddings.md) [📎](https://arxiv.org/abs/1909.00512) [📰](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
-
-## 📈 **NLP-Blogs**
-
-#### 💡 How to generate text: using different decoding methods for language generation with Transformers [📰](https://huggingface.co/blog/how-to-generate)
