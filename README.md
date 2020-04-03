@@ -10,6 +10,7 @@
 | 💡 | Next | 🛠 | Code |
 | 📝 | Summary/Notes |
 
+
 ## 📈 **NLP-Blogs**
 
 #### 💡 How to generate text: using different decoding methods for language generation with Transformers [📰](https://huggingface.co/blog/how-to-generate)
@@ -38,13 +39,16 @@
 
 #### ✔️ Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset [📝](/notes/towards_empathetic_open-domain_conversation_models_a_new_benchmark_and_dataset.md) [📎](https://arxiv.org/abs/1811.00207) [🛠](https://github.com/facebookresearch/EmpatheticDialogues)
 
+
 ## 💬 **NLP-Emotional**
 
 Confiding in and Listening to Virtual Agents: The Effect of Personality [📎](https://arxiv.org/abs/1811.00746)
 
+
 ## 🏗 **NLP-Evolutive**
 
 A comparative study of genetic algorithm in sentiment analysis [📎](https://ieeexplore.ieee.org/abstract/document/8399051)
+
 
 ## 📃 **NLP-General**
 
@@ -59,6 +63,8 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 #### ✔️ A Persona-Based Neural Conversation Model [📝](/notes/a_persona-based_neural_conversation_model.md) [📎](https://arxiv.org/abs/1603.06155)
 
 #### A Survey of Available Corpora for Building Data-Driven Dialogue Systems [📎](https://arxiv.org/abs/1512.05742)
+
+#### A Survey of Deep Learning for Scientific Discovery [📎](https://arxiv.org/abs/2003.11755)
 
 #### 💡 Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach [📎](https://www.semanticscholar.org/paper/Domain-Adaptation-for-Large-Scale-Sentiment-A-Deep-Glorot-Bordes/6f4065f0cc99a0839b0248ffb4457e5f0277b30d)
 
@@ -82,13 +88,16 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 
 #### What makes a good conversation? How controllable attributes affect human judgments [📎](https://arxiv.org/abs/1902.08654) [📰](http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html) [🛠](https://parl.ai/projects/controllable_dialogue/)
 
+
 ## 🏗 **NLP-Graphs**
 
 #### A Gentle Introduction to Deep Learning for Graphs [📎](https://arxiv.org/abs/1912.12693)
 
+
 ## 🏗 **NLP-Metric**
 
 #### GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding [📎](https://arxiv.org/abs/1804.07461)
+
 
 ## 🏗 **NLP-Model**
 
@@ -113,6 +122,7 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 #### TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents [📎](https://arxiv.org/abs/1901.08149)
 
 #### TRANSFORMERS: Attention Is All You Need [📎](https://arxiv.org/abs/1706.03762)
+
 
 ## 📈 **NLP-Representation**
 
