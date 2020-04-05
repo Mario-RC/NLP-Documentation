@@ -15,6 +15,7 @@
 
 #### 💡 How to generate text: using different decoding methods for language generation with Transformers [📰](https://huggingface.co/blog/how-to-generate)
 
+
 ## 📁 **NLP-Datasets**
 
 #### A Sentiment-and-Semantics-Based Approach for Emotion Detection in Textual Conversations [📝](/notes/a_sentiment-and-semantics-based_approach_for_emotion_detection_in_textual_conversations.md) [📎](https://arxiv.org/abs/1707.06996)
@@ -123,6 +124,7 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 
 #### TRANSFORMERS: Attention Is All You Need [📎](https://arxiv.org/abs/1706.03762)
 
+#### Variational Transformers for Diverse Response Generation [📎](https://arxiv.org/abs/2003.12738) [🛠](https://github.com/zlinao/Variational-Transformer)
 
 ## 📈 **NLP-Representation**
 
