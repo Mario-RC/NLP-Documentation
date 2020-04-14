@@ -15,6 +15,8 @@
 
 #### 💡 How to generate text: using different decoding methods for language generation with Transformers [📰](https://huggingface.co/blog/how-to-generate)
 
+#### Hugging Face - Awesome NLP Paper Discussions [📰](https://github.com/huggingface/awesome-papers)
+
 
 ## 📁 **NLP-Datasets**
 
@@ -35,6 +37,8 @@
 #### 💡 Polite Dialogue Generation Without Parallel Data [📝](/notes/polite_dialogue_generation_without_parallel_data.md) [📎](https://arxiv.org/abs/1805.03162) [🛠](https://github.com/WolfNiu/polite-dialogue-generation)
 
 #### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📝](/notes/recursive_deep_models_for_semantic_compositionality_over_a_sentiment_treebank.md) [📎](https://www.aclweb.org/anthology/D13-1170/) [🛠](http://nlp.stanford.edu/sentiment)
+
+#### The Big Bad NLP Database [🛠](https://datasets.quantumstat.com/)
 
 #### Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversations [📝](/notes/topical-chat_towards_knowledge-grounded_open-domain_conversations.md) [📎](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/3079.html) [🛠](https://github.com/alexa/alexa-prize-topical-chat-dataset)
 
@@ -66,6 +70,8 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 #### A Survey of Available Corpora for Building Data-Driven Dialogue Systems [📎](https://arxiv.org/abs/1512.05742)
 
 #### A Survey of Deep Learning for Scientific Discovery [📎](https://arxiv.org/abs/2003.11755)
+
+#### A Survey on Empathetic Dialogue Systems [📎](https://sentic.net/empathetic-dialogue-systems.pdf)
 
 #### 💡 Domain Adaptation for Large-Scale Sentiment Classification: A Deep Learning Approach [📎](https://www.semanticscholar.org/paper/Domain-Adaptation-for-Large-Scale-Sentiment-A-Deep-Glorot-Bordes/6f4065f0cc99a0839b0248ffb4457e5f0277b30d)
 
