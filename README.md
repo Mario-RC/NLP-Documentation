@@ -67,6 +67,8 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 
 #### ✔️ A Persona-Based Neural Conversation Model [📝](/notes/a_persona-based_neural_conversation_model.md) [📎](https://arxiv.org/abs/1603.06155)
 
+#### Recipes for building an open-domain chatbot [📎](https://arxiv.org/abs/2004.13637) [📰](https://parl.ai/projects/blender/)
+
 #### A Survey of Available Corpora for Building Data-Driven Dialogue Systems [📎](https://arxiv.org/abs/1512.05742)
 
 #### A Survey of Deep Learning for Scientific Discovery [📎](https://arxiv.org/abs/2003.11755)
