@@ -134,6 +134,12 @@ A comparative study of genetic algorithm in sentiment analysis [📎](https://ie
 
 #### Variational Transformers for Diverse Response Generation [📎](https://arxiv.org/abs/2003.12738) [🛠](https://github.com/zlinao/Variational-Transformer)
 
+
+## 📈 **NLP-Personality**
+
+#### Response Generation based on the Big Five Personality Traits [📎](https://proceedings-of-deim.github.io/DEIM2020/papers/G2-1.pdf)
+
+
 ## 📈 **NLP-Representation**
 
 #### ✔️ How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings [📝](/notes/how_contextual_are_contextualized_word_representations_comparing_the_geometry_of_bert_elmo_and_gpt-2_embeddings.md) [📎](https://arxiv.org/abs/1909.00512) [📰](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
