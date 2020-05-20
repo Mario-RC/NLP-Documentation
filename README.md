@@ -47,12 +47,13 @@
 
 ## 💬 **NLP-Emotional**
 
-Confiding in and Listening to Virtual Agents: The Effect of Personality [📎](https://arxiv.org/abs/1811.00746)
-
+#### CARER: Contextualized Affect Representations for Emotion Recognition [📎](https://www.aclweb.org/anthology/D18-1404/)
+#### Confiding in and Listening to Virtual Agents: The Effect of Personality [📎](https://arxiv.org/abs/1811.00746)
+#### Generating Empathetic Responses by Looking Ahead the User’s Sentiment [📎](https://ieeexplore.ieee.org/abstract/document/9054379)
 
 ## 🏗 **NLP-Evolutive**
 
-A comparative study of genetic algorithm in sentiment analysis [📎](https://ieeexplore.ieee.org/abstract/document/8399051)
+#### A comparative study of genetic algorithm in sentiment analysis [📎](https://ieeexplore.ieee.org/abstract/document/8399051)
 
 
 ## 📃 **NLP-General**
