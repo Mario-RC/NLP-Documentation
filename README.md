@@ -48,8 +48,13 @@
 ## 💬 **NLP-Emotional**
 
 #### CARER: Contextualized Affect Representations for Emotion Recognition [📎](https://www.aclweb.org/anthology/D18-1404/)
+
 #### Confiding in and Listening to Virtual Agents: The Effect of Personality [📎](https://arxiv.org/abs/1811.00746)
+
 #### Generating Empathetic Responses by Looking Ahead the User’s Sentiment [📎](https://ieeexplore.ieee.org/abstract/document/9054379)
+
+#### Text‐based emotion detection: Advances, challenges, and opportunities [📎](https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.12189)
+
 
 ## 🏗 **NLP-Evolutive**
 
