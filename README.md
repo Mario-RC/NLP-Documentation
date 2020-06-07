@@ -132,6 +132,8 @@
 
 #### GPT-2: Language Models are Unsupervised Multitask Learners [📎](https://openai.com/blog/better-language-models/) [🛠](https://github.com/openai/gpt-2)
 
+#### Language Models are Few-Shot Learners [📎](https://arxiv.org/abs/2005.14165)
+
 #### ✔️ Plug and Play Language Models: A Simple Approach to Controlled Text Generation [📝](/notes/) [📎](https://arxiv.org/abs/1912.02164)
 
 #### TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents [📎](https://arxiv.org/abs/1901.08149)
