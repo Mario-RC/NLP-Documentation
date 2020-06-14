@@ -91,6 +91,8 @@
 
 #### ✔️ Personalizing Dialogue Agents: I have a dog, do you have pets too? [📝](/notes/) [📎](https://arxiv.org/abs/1801.07243)
 
+#### Recipes for building an open-domain chatbot [📎](https://arxiv.org/abs/2004.13637) [📰](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot/) [🛠](https://parl.ai/projects/recipes/)
+
 #### 💡 Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference [📎](https://arxiv.org/abs/1902.01007) [📰](https://github.com/huggingface/awesome-papers)
 
 #### The Role of Syntax in Vector Space Models of Compositional Semantics [📎](https://www.aclweb.org/anthology/P13-1088/)
@@ -132,7 +134,7 @@
 
 #### GPT-2: Language Models are Unsupervised Multitask Learners [📎](https://openai.com/blog/better-language-models/) [🛠](https://github.com/openai/gpt-2)
 
-#### Language Models are Few-Shot Learners [📎](https://arxiv.org/abs/2005.14165)
+#### Language Models are Few-Shot Learners [📎](https://arxiv.org/abs/2005.14165) [📰](https://paper.dropbox.com/doc/Paper-Reading-and-Discussion-6--A10C8QCpJyEgUWI~kk9avsiaAg-fMEWzWjW0Xq6bhBXT11lf) [🛠](https://github.com/openai/gpt-3)
 
 #### ✔️ Plug and Play Language Models: A Simple Approach to Controlled Text Generation [📝](/notes/) [📎](https://arxiv.org/abs/1912.02164)
 
