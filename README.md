@@ -13,9 +13,21 @@
 
 ## 📈 **NLP-Blogs**
 
+#### Christopher Olah [📰](https://colah.github.io/)
+
+#### dair-ai [📰](https://dair.ai/) [📰](https://medium.com/dair-ai)
+
+#### Denny Britz [📰](http://www.wildml.com/author/dennybritz/)
+
 #### 💡 How to generate text: using different decoding methods for language generation with Transformers [📰](https://huggingface.co/blog/how-to-generate)
 
 #### Hugging Face - Awesome NLP Paper Discussions [📰](https://github.com/huggingface/awesome-papers)
+
+#### Jay Alammar [📰](http://jalammar.github.io/)
+
+#### Kawin Ethayarajh[📰] (https://kawine.github.io/blog/)
+
+#### Sebastian Ruder [📰](https://ruder.io/)
 
 
 ## 📁 **NLP-Datasets**
@@ -126,7 +138,7 @@
 
 #### ELMO: Deep contextualized word representations [📎](https://arxiv.org/abs/1802.05365)
 
-#### 💡 EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems [📎](https://arxiv.org/abs/2003.02958)
+#### 💡 EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems [📎](https://arxiv.org/abs/2003.02958) [📰](https://medium.com/voice-tech-podcast/emptransfo-how-to-create-a-chatbot-that-understands-emotion-97071de0d0f4) [🛠](https://github.com/roholazandie/EmpTransfo)
 
 #### ERNIE 2.0: A Continual Pre-training Framework for Language Understanding [📎](https://arxiv.org/abs/1907.12412) [📰](https://www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/)
 
