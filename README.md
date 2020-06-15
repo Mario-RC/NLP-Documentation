@@ -165,3 +165,12 @@
 ## 📈 **NLP-Representation**
 
 #### ✔️ How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings [📝](/notes/how_contextual_are_contextualized_word_representations_comparing_the_geometry_of_bert_elmo_and_gpt-2_embeddings.md) [📎](https://arxiv.org/abs/1909.00512) [📰](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
+
+
+## 📈 **NLP-Tutorial**
+
+#### Jay Alammar Notebooks [🛠](https://github.com/jalammar/jalammar.github.io/tree/master/notebooks)
+
+#### PyTorch Sentiment Analysis [🛠](https://github.com/bentrevett/pytorch-sentiment-analysis)
+
+#### Transformers Notebooks [🛠](https://github.com/huggingface/transformers/blob/master/notebooks/README.md)
