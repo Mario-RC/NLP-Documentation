@@ -25,7 +25,7 @@
 
 #### Jay Alammar [📰](http://jalammar.github.io/)
 
-#### Kawin Ethayarajh[📰] (https://kawine.github.io/blog/)
+#### Kawin Ethayarajh [📰](https://kawine.github.io/blog/)
 
 #### Sebastian Ruder [📰](https://ruder.io/)
 
@@ -46,7 +46,7 @@
 
 #### Movie-DiC: a Movie Dialogue Corpus for Research and Development [📎](https://www.aclweb.org/anthology/P12-2040/) [🛠](https://www.imsdb.com/)
 
-#### Finding Alternative Translations in a Large Corpus of Movie Subtitle [📎](https://www.aclweb.org/anthology/L16-1559/) v(http://opus.nlpl.eu/OpenSubtitles-v2018.php)
+#### Finding Alternative Translations in a Large Corpus of Movie Subtitle [📎](https://www.aclweb.org/anthology/L16-1559/) [🛠](http://opus.nlpl.eu/OpenSubtitles-v2018.php)
 
 #### 💡 Polite Dialogue Generation Without Parallel Data [📝](/notes/polite_dialogue_generation_without_parallel_data.md) [📎](https://arxiv.org/abs/1805.03162) [🛠](https://github.com/WolfNiu/polite-dialogue-generation)
 
