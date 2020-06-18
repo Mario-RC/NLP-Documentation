@@ -150,7 +150,7 @@
 
 #### Language Models are Few-Shot Learners [📎](https://arxiv.org/abs/2005.14165) [📰](https://paper.dropbox.com/doc/Paper-Reading-and-Discussion-6--A10C8QCpJyEgUWI~kk9avsiaAg-fMEWzWjW0Xq6bhBXT11lf) [🛠](https://github.com/openai/gpt-3)
 
-#### ✔️ Plug and Play Language Models: A Simple Approach to Controlled Text Generation [📝](/notes/) [📎](https://arxiv.org/abs/1912.02164)
+#### ✔️ Plug and Play Language Models: A Simple Approach to Controlled Text Generation [📝](/notes/) [📎](https://arxiv.org/abs/1912.02164) [📰](https://eng.uber.com/pplm/) [🛠](https://github.com/uber-research/PPLM)
 
 #### TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents [📎](https://arxiv.org/abs/1901.08149)
 
