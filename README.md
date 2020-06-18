@@ -163,6 +163,8 @@
 
 #### Response Generation based on the Big Five Personality Traits [📎](https://proceedings-of-deim.github.io/DEIM2020/papers/G2-1.pdf)
 
+#### IEC: Towards Interest-Eliciting Neural Conversational Agents [📎](http://web.cse.ohio-state.edu/~yao.470/paper/IEC_chatbot.pdf)
+
 
 ## 📈 **NLP-Representation**
 
