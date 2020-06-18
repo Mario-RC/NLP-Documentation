@@ -29,6 +29,8 @@
 
 #### Sebastian Ruder [📰](https://ruder.io/)
 
+#### FloydHub Blog [📰](https://blog.floydhub.com/)
+
 
 ## 📁 **NLP-Datasets**
 
