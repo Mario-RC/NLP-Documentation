@@ -134,7 +134,9 @@
 
 #### BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [📎](https://arxiv.org/abs/1810.04805)
 
-#### CTRL: A Conditional Transformer Language Model for Controllable Generation [📎](https://arxiv.org/abs/1909.05858)
+#### Spanish Pre-Trained Bert Model and Evaluation Data [📎](https://users.dcc.uchile.cl/~jperez/papers/pml4dc2020.pdf) [📰](https://medium.com/dair-ai/beto-spanish-bert-420e4860d2c6) [🛠](https://github.com/dccuchile/beto)
+
+#### CTRL: A Conditional Transformer Language Model for Controllable Generation [📎](https://arxiv.org/abs/1909.05858) [🛠](https://github.com/salesforce/ctrl)
 
 #### DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation [📎](https://arxiv.org/abs/1911.00536)
 
