@@ -50,6 +50,8 @@
 
 #### 💡 Polite Dialogue Generation Without Parallel Data [📝](/notes/polite_dialogue_generation_without_parallel_data.md) [📎](https://arxiv.org/abs/1805.03162) [🛠](https://github.com/WolfNiu/polite-dialogue-generation)
 
+#### Politeness Transfer: A Tag and Generate Approach [📎](https://arxiv.org/abs/2004.14257)
+
 #### Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank [📝](/notes/recursive_deep_models_for_semantic_compositionality_over_a_sentiment_treebank.md) [📎](https://www.aclweb.org/anthology/D13-1170/) [🛠](http://nlp.stanford.edu/sentiment)
 
 #### The Big Bad NLP Database [🛠](https://datasets.quantumstat.com/)
