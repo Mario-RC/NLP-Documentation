@@ -129,6 +129,8 @@
 
 ## 🏗 **NLP-Metric**
 
+#### Automatic Machine Translation Evaluation in Many Languages via Zero-Shot Paraphrasing [📎](https://arxiv.org/abs/2004.14564)
+
 #### GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding [📎](https://arxiv.org/abs/1804.07461)
 
 
