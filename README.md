@@ -10,6 +10,7 @@
 | 💡 | Next | 🛠 | Code |
 | 📝 | Summary/Notes |
 
+The list of entries follows an alphabetical order.
 
 ## 📈 **NLP-Blogs**
 
@@ -175,6 +176,18 @@
 ## 📈 **NLP-Representation**
 
 #### ✔️ How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings [📝](/notes/how_contextual_are_contextualized_word_representations_comparing_the_geometry_of_bert_elmo_and_gpt-2_embeddings.md) [📎](https://arxiv.org/abs/1909.00512) [📰](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
+
+
+## 📁 **NLP-Reports**
+
+#### OpenAI’s Latest Breakthrough is Astonishingly Powerful, but Still Fighting its Flaws [📰](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential)
+
+
+## 📈 **NLP-Techniques**
+
+#### Generating Long Sequences with Sparse Transformers [📎](https://arxiv.org/abs/1904.10509)
+
+#### Generating Wikipedia by Summarizing Long Sequences [📎](https://arxiv.org/abs/1801.10198)
 
 
 ## 📈 **NLP-Tutorial**
